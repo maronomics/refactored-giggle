@@ -1,0 +1,24 @@
+{
+  "name": "refactored-giggle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maronomics/refactored-giggle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://maronomics.github.io/refactored-giggle",
+  "bugs": {
+    "url": "https://github.com/maronomics/refactored-giggle/issues"
+  },
+  "homepage": "https://github.com/maronomics/refactored-giggle#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
