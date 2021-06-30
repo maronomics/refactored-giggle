@@ -3,4 +3,4 @@
 Portfolio Website 
 Github Pages + custom domain
 
-hhtps://mariarehman.com
+https://mariarehman.com
