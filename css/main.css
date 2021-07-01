@@ -267,6 +267,18 @@ header h1 {
     transition:.35s;
 }
 
+header h2 {
+	font-family: 'Libre Baskerville', serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 2em;
+    font-weight: 700;
+    color: rgb(170, 170, 170);
+    letter-spacing: 0em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    transition:.35s;
+}
+
 .stroke {
 	-webkit-text-stroke: 1px rgba(255,255,255,1.0);
 	color: rgba(255,255,255,0.0);
@@ -902,6 +914,8 @@ footer {
 		font-size: 1.25em;
 		margin-top: 2em;
 	}
+
+
 
 	#projectTitle a {
 		height: 1.3em;
