@@ -47,11 +47,11 @@ ul {
 .project li:nth-child(5):hover ~ .background {background: #181818;}
 
 
-#spotify-web {background-color: #A968DE;}
-#square {background-color: #2996cc;}
-#amplify {background-color: #fb6b27;}
-#wsj {background-color: #e05251;}
-#illustration {background-color: #181818;}
+#p1 {background-color: #A968DE;}
+#p2 {background-color: #2996cc;}
+#p3 {background-color: #fb6b27;}
+#p4 {background-color: #e05251;}
+#p5 {background-color: #181818;}
 #home {background-color: rgba(24,24,24,1.0);}
 #about {background-color:#ffffff;}
 
